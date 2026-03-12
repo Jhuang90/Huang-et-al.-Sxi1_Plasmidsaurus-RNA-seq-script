@@ -1,7 +1,7 @@
 # Huang-et-al.-Sxi1_Plasmidsaurus-RNA-seq-script
 This repository contains scripts used to analyze Plasmidsaurus 3′ end RNA sequencing data (https://plasmidsaurus.com/rna
 ). These scripts were applied to investigate transcriptional differences in Ménage à trois mating experiments, as described in our preprint: 
-https://www.biorxiv.org/content/10.1101/2025.02.11.637763v3.
+https://www.biorxiv.org/content/10.1101/2025.02.11.637763v3 and formal publication https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012084
 
 The analysis workflow implemented here was informed by and adapted from the Plasmidsaurus recommended RNA sequencing analysis guidelines (https://plasmidsaurus.com/technical-documentation/rna
 ).
